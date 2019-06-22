@@ -1,0 +1,2 @@
+Step 1) Open the solidity code by opening slfile.sol
+Step 2) To run the code online please visit https://ethfiddle.com/ and deploy the code and note the instance.
